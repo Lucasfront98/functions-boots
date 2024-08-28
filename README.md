@@ -1,2 +1,0 @@
-# bootstrap
-estudos em bootstrap
